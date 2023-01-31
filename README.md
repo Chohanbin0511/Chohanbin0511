@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChohanbin0511%2Fhit-counter&count_bg=%23C7C83D&title_bg=%23555555&icon=darkreader.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <div align="center">
