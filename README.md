@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-<h3 align="center">📚Nuxt Tech Stack</h3>
+<h3 align="center">📚Next Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>&nbsp
 </p>
