@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chohbin%20Git&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chohbin%20Git&fontSize=50)
 
 ### Hi there 👋
 
