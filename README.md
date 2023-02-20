@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp 
   <br>
 </p>
-
 <!--
 <h3 align="center">📚Next Tech Stack</h3>
 <p align="center">
